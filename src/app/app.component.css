@@ -1,0 +1,16 @@
+header {
+    display: block;
+}
+
+.v1 {
+    border-left: 8px solid #02B290;
+    /*height: 500px;*/
+    position:relative;
+    margin-left: 5px;
+    float:left;
+}
+
+.center{
+    margin : auto;
+    width: 50%;
+}
